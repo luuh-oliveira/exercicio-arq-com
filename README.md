@@ -1,1 +1,1 @@
-# exercicio-arq-com
+# Exercício de Arquitetura Computacional
